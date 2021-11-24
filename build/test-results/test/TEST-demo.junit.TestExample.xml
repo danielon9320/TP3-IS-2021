@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.junit.TestExample" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-11T01:52:50" hostname="DESKTOP-PTU1VTN" time="0.026">
+  <properties/>
+  <testcase name="pruebaDecrementoStock()" classname="demo.junit.TestExample" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
